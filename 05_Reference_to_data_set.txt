@@ -1,0 +1,12 @@
+
+# Die Daten koennen über folgende Links geladen werden. 
+
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/a0af24df-7b7f-4951-a08b-9391778c92d7/download/sid_dav_verkehrszaehlung_miv_od2031_2012.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/4b5aa585-a9f6-4cda-b626-4878d7c954bf/download/sid_dav_verkehrszaehlung_miv_od2031_2013.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/cdb43ead-a065-40a5-9565-56f6cfe95b5e/download/sid_dav_verkehrszaehlung_miv_od2031_2014.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/62457f7f-c247-4b87-beee-5677d98d7cf4/download/sid_dav_verkehrszaehlung_miv_od2031_2015.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/f454b4d5-7570-4547-8ee0-2bde785ec628/download/sid_dav_verkehrszaehlung_miv_od2031_2016.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/f873cc29-96ac-4b2f-b175-f733513e4012/download/sid_dav_verkehrszaehlung_miv_od2031_2017.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/d5963dee-7841-4e64-9268-6c850a2fc497/download/sid_dav_verkehrszaehlung_miv_od2031_2018.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/fa64fa70-6328-4d47-bcf0-1eff694d7c22/download/sid_dav_verkehrszaehlung_miv_od2031_2019.csv
+https://data.stadt-zuerich.ch/dataset/6212fd20-e816-4828-a67f-90f057f25ddb/resource/44607195-a2ad-4f9b-b6f1-d26c003d85a2/download/sid_dav_verkehrszaehlung_miv_od2031_2020.csv
